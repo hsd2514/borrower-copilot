@@ -1,0 +1,8 @@
+[project]
+name = "borrower-copilot"
+version = "0.1.0"
+description = "Borrower Copilot — know what's fair before you walk into a lender."
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.38",
+]
